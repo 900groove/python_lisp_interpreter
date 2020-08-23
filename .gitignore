@@ -1,2 +1,4 @@
 .vscode/
 memo.txt
+*.pyc
+*__pycache__
